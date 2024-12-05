@@ -1,5 +1,7 @@
 SPACE DEBRIS ANALYSIS
 
+The language used for develpoment is python.
+
 dataset : https://cneos.jpl.nasa.gov/fireballs/
 
 PROGRAM CONTENTS: 
@@ -9,3 +11,5 @@ PROGRAM CONTENTS:
 Requirements:
 
 !pip install yellowbrick  (for visualizations)
+install anaconda and run the file in jupyterlab, if jupyter notebook is not being intallled by command line.
+
